@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FaskCamera</string>
+    <string name="nav_header_desc">nav_header_desc</string>
+    <string name="nav_header_title">nav_header_title</string>
+    <string name="nav_header_subtitle">nav_header_subtitle</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_settings">Settings</string>
+</resources>

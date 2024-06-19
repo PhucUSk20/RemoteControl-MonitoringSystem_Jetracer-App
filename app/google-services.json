@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "307165667355",
+    "project_id": "jetracernotification",
+    "storage_bucket": "jetracernotification.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:307165667355:android:226f4558a41e06b54c58be",
+        "android_client_info": {
+          "package_name": "com.store.faskcamera"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDq3krwX_ya2Zg_JomzbPvchRW-FkcLHzc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
